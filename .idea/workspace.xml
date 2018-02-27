@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54b0f279-6b6f-4bc2-8a02-6711fd5baeb1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/String/String.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/String/src/Base_Conversion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/String/src/Base_Conversion1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/String/src/Palidrome.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/String/src/reverseString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/String/src/intToString.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/String/src/Base_Conversion1.java" afterPath="$PROJECT_DIR$/String/src/Base_Conversion1.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,19 +29,34 @@
       <file leaf-file-name="Base_Conversion.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/String/src/Base_Conversion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-347">
-              <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+            <state relative-caret-position="412">
+              <caret line="87" column="1" lean-forward="true" selection-start-line="71" selection-start-column="4" selection-end-line="87" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Base_Conversion1.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Base_Conversion1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/String/src/Base_Conversion1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            <state relative-caret-position="390">
+              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="intToString.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/String/src/intToString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <folding>
+                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#195#196#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,6 +85,7 @@
         <option value="$PROJECT_DIR$/String/src/reverseString.java" />
         <option value="$PROJECT_DIR$/String/src/Base_Conversion.java" />
         <option value="$PROJECT_DIR$/String/src/Base_Conversion1.java" />
+        <option value="$PROJECT_DIR$/String/src/intToString.java" />
       </list>
     </option>
   </component>
@@ -178,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Base_Conversion">
+  <component name="RunManager" selected="Application.intToString">
     <configuration default="false" name="Palidrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Palidrome" />
@@ -212,6 +225,36 @@
     <configuration default="false" name="Base_Conversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Base_Conversion" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="String" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Base_Conversion1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Base_Conversion1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="String" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="intToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="intToString" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -604,16 +647,20 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="3">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.Palidrome" />
       <item index="1" class="java.lang.String" itemvalue="Application.reverseString" />
       <item index="2" class="java.lang.String" itemvalue="Application.Base_Conversion" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Base_Conversion1" />
+      <item index="4" class="java.lang.String" itemvalue="Application.intToString" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.Base_Conversion" />
-        <item index="1" class="java.lang.String" itemvalue="Application.reverseString" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Palidrome" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.intToString" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Base_Conversion1" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Base_Conversion" />
+        <item index="3" class="java.lang.String" itemvalue="Application.reverseString" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Palidrome" />
       </list>
     </recent_temporary>
   </component>
@@ -627,16 +674,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519082655627</updated>
-      <workItem from="1519082657086" duration="34954000" />
+      <workItem from="1519082657086" duration="42532000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34954000" />
+    <option name="totallyTimeSpent" value="42532000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -660,7 +706,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39956093" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39956093" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -695,8 +741,20 @@
           <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/String/src/Base_Conversion1.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/String/src/Base_Conversion1.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="17" />
+      <option name="time" value="19" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -731,17 +789,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/String/src/Base_Conversion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-347">
-          <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+        <state relative-caret-position="412">
+          <caret line="87" column="1" lean-forward="true" selection-start-line="71" selection-start-column="4" selection-end-line="87" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/String/src/Base_Conversion1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        <state relative-caret-position="390">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/String/src/intToString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
