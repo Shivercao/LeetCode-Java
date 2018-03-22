@@ -11,7 +11,7 @@ public class Fibonacci {
             look[i] = Min;
         }
     }
-    public int fib_Memo(int n){
+    private int fib_Memo(int n){
         if(look[n] == Min){
             if(n <= 1) return n;
             else{
