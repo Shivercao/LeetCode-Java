@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode-Java.iml" filepath="$PROJECT_DIR$/.idea/LeetCode-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stack_and_Queue/Stack_and_Queue.iml" filepath="$PROJECT_DIR$/Stack_and_Queue/Stack_and_Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tree/Tree.iml" filepath="$PROJECT_DIR$/Tree/Tree.iml" />
     </modules>
   </component>
 </project>

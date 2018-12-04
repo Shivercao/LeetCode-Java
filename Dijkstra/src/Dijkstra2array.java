@@ -55,6 +55,5 @@ public class Dijkstra2array {
         }
         output = "v" + (start+1) + output;
         System.out.println(output);
-    }
-}
+
 
